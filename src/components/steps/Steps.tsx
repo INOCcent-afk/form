@@ -1,6 +1,4 @@
 import React, { useState } from "react";
-import styled from "styled-components";
-import { Colors } from "../../styles/Colors";
 
 import { Container, CircleContainer, Circle } from "./Steps.styles";
 

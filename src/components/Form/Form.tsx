@@ -1,5 +1,4 @@
 import React, { FC } from "react";
-import Button from "../Button";
 import Input from "../Input";
 
 import arrowHead from "../../icons/icons8-expand-arrow-26.png";
